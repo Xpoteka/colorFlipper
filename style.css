@@ -1,0 +1,13 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: uppercase;
+    color: #333;
+}
+
+h2 span {
+    color: #3498db;
+}
+
+button {
+    text-transform: uppercase;
+}
